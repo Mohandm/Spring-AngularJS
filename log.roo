@@ -1,0 +1,27 @@
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-12-19 15:56:44
+project --topLevelPackage com.misys.portal.dev.tools --projectName portaldevtools --java 6 --packaging WAR
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log closed at 2014-12-19 15:56:52
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-12-19 15:56:54
+web mvc setup
+web mvc json all 
+jpa setup --database ORACLE --provider HIBERNATE 
+// [failed] perform eclipse 
+// [failed] perform tests
+hint
+class --class com.misys.portal.dev.tools.test
+// [failed] test integration 
+// [failed] test integration 
+// [failed] test integration 
+process manager debug 
+hint 
+class --class ~.Test
+exit
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log closed at 2014-12-19 18:47:35
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log opened at 2014-12-19 18:47:44
+logging setup --level INFO 
+entity jpa --class com.misys.portal.dev.tools.UserMaster
+entity jpa --class com.misys.portal.dev.tools.domain.entity.UserMaster
+// Spring Roo 1.2.5.RELEASE [rev 8341dc2] log closed at 2014-12-19 23:08:51
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2014-12-19 23:46:04
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log opened at 2015-07-30 00:03:59
+// Spring Roo 1.3.1.RC1 [rev 4877cfb] log closed at 2015-07-30 00:43:44
